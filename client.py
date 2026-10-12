@@ -1,6 +1,5 @@
 import socket
 import threading
-import sys
 from prompt_toolkit import PromptSession
 from prompt_toolkit.patch_stdout import patch_stdout
 from incl.utils import *
